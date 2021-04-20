@@ -1,0 +1,12 @@
+#masthead {
+    min-height: 199px;
+    background-color: #2cac20;
+    color: #aaaacc;
+}
+
+#masthead h1 {
+    font-size: 20px;
+    line-height: 1;
+    color: #ffffff;
+    margin-top: 50px;
+}
